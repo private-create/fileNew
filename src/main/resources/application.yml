@@ -43,11 +43,12 @@ spring:
     password: redis123
 
 
+#oss配置
 oss:
-  endpoint: https://oss-cn-qingdao.aliyuncs.com
-  accessKeyId: LTAI5t88f1hsmK6Qwyoidkb4
-  accessKeySecret: BckB4NiyUsAaw2Tn5OCYLhA7QvdJda
-  bucketName: lifeprivateoss
+  endpoint: https://xxxxxxxx
+  accessKeyId: 12321sdsdad
+  accessKeySecret: dsdddsdds
+  bucketName: sddsd
 
 xxl:
   job:
